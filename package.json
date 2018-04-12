@@ -1,0 +1,30 @@
+{
+  "name": "base-framework",
+  "version": "1.0.0",
+  "description": "My framework for website development",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-rodgers/base-framework.git"
+  },
+  "author": "Mark Rodgers <markrodgers@protonmail.com>",
+  "bugs": {
+    "url": "https://github.com/mark-rodgers/base-framework/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "browser-sync": "^2.23.6",
+    "font-awesome": "4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "useref": "^1.4.0"
+  }
+}
